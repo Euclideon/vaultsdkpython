@@ -1,3 +1,5 @@
+> This repository is no longer active after the migration from Vault SDK to udSDK. Please use the [udSDKPython](https://github.com/Euclideon/udSDKPython) moving forward.
+
 ## Python3 Vault SDK
 
 <!-- TODO: Write a brief abstract explaining this sample -->
